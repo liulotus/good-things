@@ -10,4 +10,4 @@ For some good things, such as design resource site, documents frame, recommend l
 
 ## Category · 类别
 
-001. [小众设计资源站点](/design-resource//little_design_res.md)
+`001.` [小众设计资源站点](/design-resource//little_design_res.md)

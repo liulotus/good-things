@@ -8,5 +8,5 @@ For some good things, such as design resource site, documents frame, recommend l
 
 欢迎大家推荐好东西，让这个项目变得更加美好。
 
-## category · 类别
+## Category · 类别
 

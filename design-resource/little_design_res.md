@@ -8,7 +8,7 @@
 
 [点击这里访问：freebiesbug.com](https://freebiesbug.com/)
 
-![freebiesbug.com](/screenshots/freebiesbug_com.jpg)
+![freebiesbug.com](/design-resource/screenshots/freebiesbug_com.jpg)
 
 二. uplabs.com
 
@@ -16,7 +16,7 @@ uplabs 是一个创意设计的社区，按照时间线提供 Android，Web，iO
 
 [点击这里访问：uplabs.com](https://www.uplabs.com/)
 
-![uplags.com](/screenshots/uplabs_com.jpg)
+![uplags.com](/design-resource/screenshots/uplabs_com.jpg)
 
 三. pixelbuddha.net
 
@@ -24,7 +24,7 @@ pixelbuddha 也是我常去的一个地方，这个站点提供的设计资源�
 
 [点击这里访问：pixelbuddha.net](https://pixelbuddha.net/)
 
-![pixelbuddha.net](/screenshots/pixelbuddha_net.jpg)
+![pixelbuddha.net](/design-resource/screenshots/pixelbuddha_net.jpg)
 
 四. cssauthor.com
 
@@ -32,7 +32,7 @@ pixelbuddha 也是我常去的一个地方，这个站点提供的设计资源�
 
 [点击这里访问：cssauthor.com](https://cssauthor.com/)
 
-![cssauthor.com](/screenshots/cssauthor_com.jpg)
+![cssauthor.com](/design-resource/screenshots/cssauthor_com.jpg)
 
 五. oxygenna.com
 
@@ -40,7 +40,7 @@ oxygenna 这个站点是以提供付费的 Wordpress 主题为主的设计资源
 
 [点击这里访问：oxygenna.com](https://www.oxygenna.com/)
 
-![orygenna.com](/screenshots/oxygenna_com.jpg)
+![orygenna.com](/design-resource/screenshots/oxygenna_com.jpg)
 
 六. prototypr.io
 
@@ -48,5 +48,5 @@ oxygenna 这个站点是以提供付费的 Wordpress 主题为主的设计资源
 
 [点击这里访问：prototypr.io](https://www.prototypr.io/home/)
 
-![prototypr.io](/screenshots/prototypr_io.jpg)
+![prototypr.io](/design-resource/screenshots/prototypr_io.jpg)
 

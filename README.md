@@ -13,3 +13,5 @@ For some good things, such as design resource site, documents frame, recommend l
 `001.` [小众设计资源站点](/design-resource/little_design_res.md)
 
 `002.` [网页及后台管理模版](/web-templates/templates.md)
+
+`003.` [常用文档模版](/doc-templates/doc-templates.md)

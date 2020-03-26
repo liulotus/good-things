@@ -9,7 +9,7 @@
 
 > RUP : Rational Unified Process (43 个)
 
-下载地址：【点击这里下载](/doc-templates/rup_develop_doc_templates.zip)
+下载地址：[点击这里下载](/doc-templates/rup_develop_doc_templates.zip)
 
 - 软件构架文档（rup_sad.dot）
 - 用例实现规约（rup_ucrs.dot）
@@ -59,7 +59,7 @@
 
 > GB ： 国家标准 （ 15 个）
 
-下载地址：【点击这里下载](/doc-templates/gb_develop_doc_templates.zip)
+下载地址：[点击这里下载](/doc-templates/gb_develop_doc_templates.zip)
 
 - 用户手册(GB8567-88)
 - 项目开发总结报告(GB8567-88)
